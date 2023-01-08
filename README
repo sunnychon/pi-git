@@ -1,0 +1,9 @@
+PI-GIT IS A GIT GUI CLIENT THAT IS FOR RASPBERRY PI
+
+ _   _  _____        __
+ | | | |/ _ \ \      / /
+ | |_| | | | \ \ /\ / / 
+ |  _  | |_| |\ V  V / 
+ |_| |_|\___/  \_/\_/   TO INSTALL IT ?
+USE "git clne https://github.com/sunnychon/pi-git/" TO GET THE FILES
+USE ./pi-git to start it.
